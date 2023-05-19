@@ -1,0 +1,30 @@
+h4{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+
+
+
+.block1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logoWizard{
+    width: 50%;
+    margin-top: 5%;
+}
+
+.logoSenai{
+    width: 50%;
+}
+.logoBB{
+    width: 50%;
+}
+.logoBosch{
+    width: 50%;
+}
